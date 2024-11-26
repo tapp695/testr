@@ -1,0 +1,16 @@
+C:\Users\ASUS\source\repos\mareshell\mareshell\bin\Debug\net8.0-windows\mareshell.exe
+C:\Users\ASUS\source\repos\mareshell\mareshell\bin\Debug\net8.0-windows\mareshell.deps.json
+C:\Users\ASUS\source\repos\mareshell\mareshell\bin\Debug\net8.0-windows\mareshell.runtimeconfig.json
+C:\Users\ASUS\source\repos\mareshell\mareshell\bin\Debug\net8.0-windows\mareshell.dll
+C:\Users\ASUS\source\repos\mareshell\mareshell\bin\Debug\net8.0-windows\mareshell.pdb
+C:\Users\ASUS\source\repos\mareshell\mareshell\obj\Debug\net8.0-windows\mareshell.Form1.resources
+C:\Users\ASUS\source\repos\mareshell\mareshell\obj\Debug\net8.0-windows\mareshell.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\mareshell\mareshell\obj\Debug\net8.0-windows\mareshell.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\mareshell\mareshell\obj\Debug\net8.0-windows\mareshell.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\mareshell\mareshell\obj\Debug\net8.0-windows\mareshell.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\mareshell\mareshell\obj\Debug\net8.0-windows\mareshell.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\mareshell\mareshell\obj\Debug\net8.0-windows\mareshell.dll
+C:\Users\ASUS\source\repos\mareshell\mareshell\obj\Debug\net8.0-windows\refint\mareshell.dll
+C:\Users\ASUS\source\repos\mareshell\mareshell\obj\Debug\net8.0-windows\mareshell.pdb
+C:\Users\ASUS\source\repos\mareshell\mareshell\obj\Debug\net8.0-windows\mareshell.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\mareshell\mareshell\obj\Debug\net8.0-windows\ref\mareshell.dll
